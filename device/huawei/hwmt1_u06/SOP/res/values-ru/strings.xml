@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Открыть навигации ящик</string>
+    <string name="drawer_close">Закрыть навигации ящик</string>
+
+    <string name="action_exit">Выход</string>
+
+    <string name="fragment_0_label">Surdu\'s CarbonROM\nсвойства и установки сервис загрузки</string>
+    <string name="fragment_0_text">Целью этого небольшого приложения является установка свойств ROM конкретных, выполнив несколько \"setprop\" Команды для вас\n\nнаписал xdaid</string>
+
+    <string name="fragment_1_label">Длительное хранение\nЭти параметры вступают в силу после перезагрузки</string>
+    <string name="fragment_1_radio1">Длительное хранение отключен</string>
+    <string name="fragment_1_radio2">Длительное хранение включен</string>
+    <string name="fragment_1_button">\u0020Перезагрузка\u0020</string>
+
+    <string name="fragment_2_label">Перчатки Режим\nЭти параметры вступают в силу немедленно</string>
+    <string name="fragment_2_radio1">Отключить</string>
+    <string name="fragment_2_radio2">Включить</string>
+    <string name="fragment_2_switch">Сделать свой выбор постоянным\nПовторно применить профиль при загрузке</string>
+
+</resources>
